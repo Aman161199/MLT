@@ -18,6 +18,8 @@ A deep learning based approach to MT, Neural Machine Translation has made rapid 
 
 
 ## Results
+The model was fit for 20 epochs with the training loss of 0.1507 and accuracy 0.9659.
+The validation loss is  0.3070 with validation accuracy 0.9486.
 
 **Loss Diagram**
 
