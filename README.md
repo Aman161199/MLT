@@ -26,6 +26,7 @@ The validation loss is  0.3070 with validation accuracy 0.9486.
 ![Loss Diagram](mlt1.png)
 
 **Model Architecture**
+
 ![Model Architecture](mlt.png)
 
 
