@@ -19,7 +19,10 @@ A deep learning based approach to MT, Neural Machine Translation has made rapid 
 
 ## Results
 
+Loss Diagram
 ![Loss Diagram](mlt1.png)
+
+Model Architecture
 ![Model Architecture](mlt.png)
 
 
